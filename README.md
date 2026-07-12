@@ -11,7 +11,7 @@ Coding
 🌱 I’m currently learning Full Stack Web Development 
 
 
-💬 Ask me about Reactjs/Nodejs/DSA 
+💬 Ask me about Reactjs/Nodejs
 
 📫 Reach me shubhagrawal205.sa@gmail.com
 
